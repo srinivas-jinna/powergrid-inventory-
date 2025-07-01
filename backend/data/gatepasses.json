@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1751377984013",
+    "gatePassNumber": "GP-984013",
+    "date": "1/7/2025",
+    "to": "sjsjj",
+    "products": [
+      {
+        "productId": "PRD-6Y5-950666",
+        "name": "mmm",
+        "transport": "Road",
+        "description": "mmm",
+        "selectedQuantity": 5,
+        "type": "Electronics",
+        "remarks": "ska"
+      }
+    ],
+    "preparedBy": "sjsjs",
+    "checkedBy": "shshsh",
+    "authorizedBy": "sggs",
+    "generatedAt": "2025-07-01T13:53:04.013Z"
+  }
+]
